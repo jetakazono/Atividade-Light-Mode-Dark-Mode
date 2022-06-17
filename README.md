@@ -2,7 +2,7 @@
 -------
 # Manipulando o DOM
 
-Projeto referente ao curso "Manipulando o DOM" que ministrei pela [Digital Innovation One](https://digitalinnovation.one/).
+Projeto referente ao curso "Manipulando o DOM" ministrado pela [Digital Innovation One](https://digitalinnovation.one/).
 
 ## Atividade: Light Mode/Dark Mode
 
