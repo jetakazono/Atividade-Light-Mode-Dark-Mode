@@ -13,5 +13,8 @@ Projeto referente ao curso "Manipulando o DOM" ministrado pela [Digital Innovati
 5. Se os elementos possuirem a classe `dark-mode`, modifique seus estilos. Caso contrário, volte os estilos para o original
 
 ## Exemplo
+<https://jetakazono.github.io/Atividade-Light-Mode-Dark-Mode/>
 
 ![Exercício Dark Mode e Light Mode](./dark-mode-exercicio.gif)
+
+
